@@ -1,0 +1,2 @@
+# JerseyBoilerplate
+Rest Jersey boilerplate
